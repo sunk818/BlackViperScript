@@ -30,7 +30,7 @@ This script lets you set Windows 10's services based on Black Viper's Service Co
 
 Black Viper's Service Configurations from http://www.blackviper.com/
 
-**Note: This Script is ment for Windows 10 Home x64 / Windows 10 Pro x64.. With Creator's Update or newer Installed**    
+**Note: This Script is meant for Windows 10 Home x64 / Windows 10 Pro x64.. With Creator's Update or newer Installed**    
 
 PS. Don't forget to check out my other Repo [https://github.com/madbomb122/Win10Script](https://github.com/madbomb122/Win10Script)    
 
@@ -60,7 +60,7 @@ PPS. My Thanks goes out to all that have helped in any way, and to the people on
 
 **Note:**
 **AT YOUR OWN RISK**  
-**1. Run the script on x86 (32-bit) ,But shows a warning**  
+**1. Run the script on x86 (32-bit), But shows a warning**  
 **2. Skip the check for**  
 **---A. Home/Pro** *(`$Edition_Check` variable in script or use `-sec` switch)*  
 **---B. Min/Max Build** *(`$Build_Check` variable in script or use `-sbc` switch)*  
